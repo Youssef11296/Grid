@@ -1,11 +1,14 @@
 # Grid
-# Responsive Grid Layout
+
+## Overview
 
 This Project Based On The Grid System And Responsive Layout Concept
 
-The Grid System Is An Amazing Way To Make Your Site More Flexable
-
 You Can Use The Flex Box Instead, But The Amazing Grid System Is More Effecient
+
+You Can Use The Bootstrap Grid, But You Can Build Your Grid System That Make Your Controll Easier
+
+## Responsive Grid Layout
 
 The Responsive Layout Is Based On Your Css Media Quiries Where You Can Modify Your Element Style
 
