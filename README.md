@@ -12,8 +12,6 @@ You Can Use The Bootstrap Grid, But You Can Build Your Grid System That Make You
 
 The Responsive Layout Is Based On Your Css Media Quiries Where You Can Modify Your Element Style
 
-If You Use Flex Box Almost Your Web Time, And Dont Know About The Grid
-
-Show My Code
+If You Use Flex Box Almost Your Web Time, And Dont Know About The Grid, Read My Code :)
 
 Have A Nice Time :)
